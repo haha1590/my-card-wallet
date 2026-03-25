@@ -40,7 +40,7 @@ const firebaseConfig = {
 };
 
 // --- [중요] 본인의 Gemini API 키를 여기에 입력하세요 ---
-const apiKey = "여기에_본인의_API_키를_입력하세요"; 
+const apiKey = "AIzaSyCW2QDBFqhcwDWKRaOIDdiLpcEhee_91js"; 
 const appId = "my-card-wallet-f11bc";
 
 const app = initializeApp(firebaseConfig);
